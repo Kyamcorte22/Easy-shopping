@@ -130,7 +130,7 @@ header {
 
     .img-style{
         position: static;
-        max-width: 90%;
+        width: 90%;
 
     }
 
@@ -142,7 +142,6 @@ header {
 
         font-size: 36px;
         line-height: 52px;
-        letter-spacing: 0px;
         width: auto;
         margin: 58px 50px 0 50px;
         text-align: center;
